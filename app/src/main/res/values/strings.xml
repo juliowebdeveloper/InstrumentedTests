@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InstrumentedTests</string>
+    <string name="hello_name">Hello World!</string>
+
+</resources>
